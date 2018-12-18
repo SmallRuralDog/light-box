@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/grid-light-box",
+    "name": "laravel-admin-ext/dog-grid-light-box",
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-ext/grid-light-box",
+    "homepage": "https://github.com/SmallRuralDog/grid-light-box",
     "license": "MIT",
     "authors": [
         {
