@@ -1,14 +1,14 @@
 {
-    "name": "laravel-admin-ext/dog-grid-light-box",
-    "description": "description...",
+    "name": "laravel-admin-ext/light-box",
+    "description": "灯箱扩展",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/SmallRuralDog/grid-light-box",
+    "homepage": "https://github.com/SmallRuralDog/light-box",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "SmallRuralDog",
+            "email": "296404875@qq.com"
         }
     ],
     "require": {
@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "SmallRuralDog\\GridLightBox\\": "src/"
+            "SmallRuralDog\\LightBox\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "SmallRuralDog\\GridLightBox\\GridLightBoxServiceProvider"
+                "SmallRuralDog\\LightBox\\LightBoxServiceProvider"
             ]
 
         }

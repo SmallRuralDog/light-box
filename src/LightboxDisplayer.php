@@ -1,7 +1,7 @@
 <?php
 
 
-namespace SmallRuralDog\GridLightBox;
+namespace SmallRuralDog\LightBox;
 
 
 use Encore\Admin\Admin;

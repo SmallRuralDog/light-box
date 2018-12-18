@@ -1,6 +1,6 @@
 <?php
 
-namespace SmallRuralDog\GridLightBox;
+namespace SmallRuralDog\LightBox;
 
 class GalleryDisplayer extends LightboxDisplayer
 {
