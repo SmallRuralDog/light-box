@@ -40,6 +40,11 @@ $grid->picture()->gallery(['width' => 50, 'height' => 50]);
 ```
 >当字段为数组时为多图浏览
 
+#### 预览
+![image](https://user-images.githubusercontent.com/5151848/50127265-6f363f00-02ab-11e9-8386-b7cecc044e42.png)
+
+![image](https://user-images.githubusercontent.com/5151848/50127285-85dc9600-02ab-11e9-939a-19aefae98da5.png)
+
 #### License
 
 Licensed under The [MIT License (MIT). ](https://github.com/SmallRuralDog/light-box/blob/master/LICENSE)
