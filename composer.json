@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/light-box",
+    "name": "SmallRuralDog/light-box",
     "description": "灯箱扩展",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
