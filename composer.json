@@ -21,7 +21,10 @@
     "autoload": {
         "psr-4": {
             "SmallRuralDog\\LightBox\\": "src/"
-        }
+        },
+        "files": [
+            "src/functions.php"
+        ]
     },
     "extra": {
         "laravel": {
